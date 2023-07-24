@@ -1,7 +1,7 @@
+![dark](https://github.com/EdNovas/gihubSNK/blob/output/github-contribution-grid-snake-dark.svg)
 [![EdNovas's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdNovas&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![EdNovas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ednovas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![dark](https://github.com/EdNovas/gihubSNK/blob/output/github-contribution-grid-snake-dark.svg)
 <!-- ![light](https://github.com/EdNovas/gihubSNK/blob/output/github-contribution-grid-snake.svg) -->
 
 
