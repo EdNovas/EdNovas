@@ -1,5 +1,7 @@
 [![EdNovas's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdNovas)](https://github.com/anuraghazra/github-readme-stats)
 
+[![EdNovas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EdNovas)](https://github.com/anuraghazra/github-readme-stats)
+
 ![dark](https://github.com/EdNovas/gihubSNK/blob/output/github-contribution-grid-snake-dark.svg)
 <!-- ![light](https://github.com/EdNovas/gihubSNK/blob/output/github-contribution-grid-snake.svg) -->
 
