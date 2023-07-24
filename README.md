@@ -1,4 +1,4 @@
-[![EdNovas's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdNovas)](https://github.com/anuraghazra/github-readme-stats)
+[![EdNovas's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdNovas&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
