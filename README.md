@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Believe it or not, I am humorous!
 
-😄 Worked skills
+😄 Skills
 
 ✅ JavaScript / CSS / HTML / MYSQL ...
 
