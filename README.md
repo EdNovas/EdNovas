@@ -7,7 +7,6 @@
 
 - 🔭 My Personal Blog is on [https://ednovas.blog](https://ednovas.blog) (It's in Chinese, but page translation will help!)
 - 🌱 I’m currently learning Computer Science (Undergraduate Major) at UVic
-- 📫 How to reach me: Email: 6669712@gmail.com Telegram: [https://t.me/ednovas](https://t.me/ednovas)
 - 😄 Favorite editor: VScode
 - ⚡ Fun fact: Believe it or not, I am humorous!
 
