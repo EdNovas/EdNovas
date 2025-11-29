@@ -6,7 +6,6 @@
 
 
 - 🔭 My Personal Blog is on [https://ednovas.blog](https://ednovas.blog) (It's in Chinese, but page translation will help!)
-- 🌱 I’m currently learning Computer Science (Undergraduate Major) at UVic
 - 😄 Favorite editor: VScode
 - ⚡ Fun fact: Believe it or not, I am humorous!
 
